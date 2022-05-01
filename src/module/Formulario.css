@@ -1,0 +1,57 @@
+@font-face {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../assets/fonts/Montserrat-SemiBold.ttf") format("truetype");
+}
+input {
+    font-family: Montserrat;
+
+}
+.form-control {
+    border-left:none;
+}
+.moduloForm {
+    line-height: 44px;
+    font-size: 36px;
+}
+
+p {
+    font-family: Montserrat;
+    font-size: 0.5em;
+    line-height: 1em;
+    text-align: Left;
+    vertical-align: Top;
+    padding: 20px 0px 0px 0px;
+    margin: 20px 0px 0px 0px;
+}
+.input-group-text{
+    background:white;
+    border-right:none;
+}
+h1 {
+    font-family: Montserrat;
+    font-style: normal;
+    font-size: 1em;
+    line-height: 1em;
+    text-align: Left;
+    vertical-align: Top;
+}
+label {
+    font-family: Montserrat;
+    font-style: normal;
+    font-size: 0.3em;
+    line-height: 0.42em;
+}
+::placeholder {
+    font-family: Montserrat;
+    color: #828282;
+    font-size:0.8em;
+   
+}
+.form-check-input{
+    width:25px;
+    height:25px;
+   margin-top:20px;
+   margin-right:10px;
+}

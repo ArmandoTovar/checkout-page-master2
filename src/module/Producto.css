@@ -1,0 +1,74 @@
+.total {
+    margin:0px;
+    padding:20px 0 20px 0;
+}
+input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    
+}
+input[type=number]{
+    border:none;
+    background:none;
+   text-align:center;
+}
+.sinfondo{
+  margin:auto;
+
+    
+}
+.NumBot {
+    border: 1px solid #828282;
+    border-radius: 5px;
+
+
+
+}
+.botonpeq {
+    height: 20px;
+    width: 20px;
+    margin: 0;
+    padding: 0;
+    background: #E0E0E0;
+    border: none;
+}
+.despla {
+    position: relative;
+    font-weight: 100;
+    line-height: normal;
+    inline-size: 0px;
+    color: #828282;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    top: -5px;
+    left: 4px;
+    font-size: 1.4em;
+}
+h6 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    /* Orange */
+    color: #F2994A;
+    transform: rotate(-0.02deg);
+   
+}
+h5 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #4E5150;
+    transform: rotate(-0.02deg);
+  
+}
+.img-thumbnail {
+    
+
+    background: none;
+    border-radius: 2em;
+ 
+}
